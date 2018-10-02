@@ -1,12 +1,11 @@
 {
-  "name": "DO IT!",
+  "name": "swiftbot",
   "version": "1.0.1",
   "manifest_version": 2,
-  "description": "For when you need motivation! Shia LaBeouf delivers the most intense motivational speech of all-time IN YOUR BROWSER! ",
+  "description": "whenever you need to be told that you're really doing a whole lotta damage, phil swift (is) here for you!",
   "icons": {
-    "16": "icons/icon16.png",
-    "48": "icons/icon48.png",
-    "128": "icons/icon128.png"
+    "4": "icons/image4.png",
+    "3": "icons/image3.png",
   },
   "default_locale": "en",
   "permissions": [
@@ -19,10 +18,10 @@
   },
   "browser_action": {
      "default_icon": {
-        "19": "icons/icon19.png",
-        "38": "icons/icon38.png"
+        "1": "icons/image1.png",
+        "2": "icons/image2.png"
       },
-    "default_title": "DO IT"
+    "default_title": "FLEX TAPE"
   },
   "web_accessible_resources": [
     "media/*"
